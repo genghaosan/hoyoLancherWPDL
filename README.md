@@ -1,0 +1,2 @@
+# hoyoLancherWPDL
+下载米哈游启动器的背景动态壁纸的一个简单的python脚本
